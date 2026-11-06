@@ -67,7 +67,7 @@ git clone https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
 ### 2. Open the Project Folder
 
 ```bash
-cd vinuthna_5017_lab3
+cd lab3
 ```
 
 ### 3. Install Dependencies
