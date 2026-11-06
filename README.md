@@ -1,3 +1,4 @@
+
 # Lab 3 – REST API, Query Parameters, Validation and Debugging
 
 ## Project Details
@@ -12,7 +13,7 @@
 
 ## Deployment URL
 
-**Render URL:** https://vinuthna-5017-lab3.onrender.com/books 
+**Render URL:** https://vinuthna-5017-lab3.onrender.com/books
 
 ## Project Description
 
@@ -43,39 +44,39 @@ lab3/
 ├── README.md
 │
 └── screenshots/
-    ├── 01-get-all.png
-    ├── 02-search.png
-    ├── 03-sorting.png
-    ├── 04-pagination.png
-    ├── 05-price-filter.png
-    ├── 06-multiple-query.png
-    ├── 07-post-success.png
-    ├── 08-post-validation.png
-    ├── 09-put-update.png
-    └── 10-delete.png
+    ├── delete.jpeg
+    ├── get-all.png
+    ├── multiple-query.png
+    ├── pagination.png
+    ├── post-success.jpeg
+    ├── post-validation.jpeg
+    ├── price-filter.png
+    ├── put-update.jpeg
+    ├── search.png
+    └── sorting.png
 ```
 
 ## Installation and Setup
 
-### 1. Clone the repository
+### 1. Clone the Repository
 
 ```bash
-git  https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
+git clone https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
 ```
 
-### 2. Open the project folder
+### 2. Open the Project Folder
 
 ```bash
-cd lab3
+cd vinuthna_5017_lab3
 ```
 
-### 3. Install dependencies
+### 3. Install Dependencies
 
 ```bash
 npm install
 ```
 
-### 4. Start the development server
+### 4. Start the Development Server
 
 ```bash
 npm run dev
@@ -192,43 +193,43 @@ The tests include:
 
 ### 1. GET All Books
 
-![GET All Books](screenshots/01-get-all.png)
+![GET All Books](./screenshots/get-all.png)
 
 ### 2. Search Books
 
-![Search Books](screenshots/02-search.png)
+![Search Books](./screenshots/search.png)
 
 ### 3. Sorting
 
-![Sorting](screenshots/03-sorting.png)
+![Sorting](./screenshots/sorting.png)
 
 ### 4. Pagination
 
-![Pagination](screenshots/04-pagination.png)
+![Pagination](./screenshots/pagination.png)
 
 ### 5. Price Filtering
 
-![Price Filtering](screenshots/05-price-filter.png)
+![Price Filtering](./screenshots/price-filter.png)
 
 ### 6. Multiple Query
 
-![Multiple-query](screenshots/06-multiple-query.png)
+![Multiple Query](./screenshots/multiple-query.png)
 
 ### 7. POST Successful Request
 
-![POST Success](screenshots/07-post-success.png)
+![POST Success](./screenshots/post-success.jpeg)
 
 ### 8. POST Validation Error
 
-![POST Validation](screenshots/08-post-validation.png)
+![POST Validation](./screenshots/post-validation.jpeg)
 
 ### 9. PUT Update Request
 
-![PUT Update](screenshots/09-put-update.png)
+![PUT Update](./screenshots/put-update.jpeg)
 
 ### 10. DELETE Request
 
-![DELETE Book](screenshots/10-delete.png)
+![DELETE Book](./screenshots/delete.jpeg)
 
 ## Conclusion
 
