@@ -61,7 +61,7 @@ lab3/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vinuthnabajjuri-25/vinuthna_5017_lab3.git
+git clone https://github.com/spoorthidaram/spoorthi_5036_lab3.git 
 ```
 
 ### 2. Open the Project Folder
