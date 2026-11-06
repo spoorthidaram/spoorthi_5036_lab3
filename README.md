@@ -47,7 +47,7 @@ lab3/
     ├── 02-search.png
     ├── 03-sorting.png
     ├── 04-pagination.png
-    ├── 04-price-filter.png
+    ├── 05-price-filter.png
     ├── 06-multiple-query.png
     ├── 07-post-success.png
     ├── 08-post-validation.png
